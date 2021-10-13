@@ -1,0 +1,31 @@
+phase1 [admix,123]
+
+iv: EAj9PlCFRdfH57JPmzVH1Q==
+cipher: vdbLhWgHudsUmNkmse0J4nIqDW/adXu+f6/yGg2aboyyr+UaCuPzIsRaR2X1J1HYQrz76DCzGw/HVVtQBc+bDA==
+
+serialized plain:
+a:2:{s:8:"userna
+me";s:5:"admix";
+s:8:"password";s
+:3:"123";}
+
+phase2 [admin,123] with mess
+
+modified cipher: 3ewoCAbMjAoZbRicERidJW1lIjtzOjU6ImFkbWluIjtzOjg6InBhc3N3b3JkIjtzOjM6IjEyMyI7fQ==
+
+serialized plain:
+��(̌ m��%
+me";s:5:"admin";
+s:8:"password";s
+:3:"123";}
+
+phase [admin,123] succeed!!
+
+modified cipher: vdbLhWgHudsUmNkmsfsJ4nIqDW/adXu+f6/yGg2aboyyr+UaCuPzIsRaR2X1J1HYQrz76DCzGw/HVVtQBc+bDA==
+modified iv: rN7nDC068+XkqN+g71+0kQ==
+
+serialized plain:
+a:2:{s:8:"userna
+me";s:5:"admin";
+s:8:"password";s
+:3:"123";}

@@ -1,0 +1,12 @@
+/*--------------------------------------------
+	Information Security Final.
+	CBC Byte Flipping Attack
+	(The 2nd practice: CTF)
+	Implementation: PHP, HTML, Python(jupiter notebook)
+
+	student: B064011007
+---------------------------------------------*/
+
+Q:How to run the program?
+A:Seggest to install "xampp" for PHP and HTML files, and Pycharm(Pro) or Anacoda for python jupiter notebook.
+  Detials and steps are shown in report(doc file).
